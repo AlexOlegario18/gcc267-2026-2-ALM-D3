@@ -5,6 +5,10 @@ node_modules/
 dist/
 coverage/
 
+# Banco SQLite local (ADR-0002)
+*.db
+*.db-journal
+
 # Variáveis de ambiente
 .env
 .env.*
