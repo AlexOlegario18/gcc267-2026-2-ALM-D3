@@ -18,6 +18,7 @@ Contextos de domínio (manter separados no código):
 | Frequência | Registro e consulta de presença nas sessões |
 
 Mais contexto: [docs/visao-produto.md](docs/visao-produto.md).
+Contrato da API (entidades, rotas e regras): [docs/api.md](docs/api.md).
 
 ## Estrutura
 
